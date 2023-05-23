@@ -1,0 +1,5 @@
+starter/jsonplaceholder/GetRequest.class
+starter/CucumberTestSuite.class
+starter/jsonplaceholder/PostRequestStepDefinitions.class
+starter/jsonplaceholder/GetRequestStepDefinitions.class
+starter/jsonplaceholder/PostRequests.class

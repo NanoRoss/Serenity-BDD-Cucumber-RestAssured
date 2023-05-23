@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Validaciones sobre GET requests en sonplaceholder_typicode_com
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.947 s - in Validaciones sobre GET requests en sonplaceholder_typicode_com
